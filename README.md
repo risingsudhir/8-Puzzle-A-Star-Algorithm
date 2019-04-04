@@ -1,6 +1,6 @@
 # 8/15 Puzzle using A* (A Star) Algorithm
 
-This project solves the 8 puzzle problem using A* algorithm. Project has been implemented in C# with a graphical interface that allows a person to play the game or find an optimal solution for current state of the 8 puzzle. I wrote the first post on CodeProject [here](https://www.codeproject.com/Articles/616874/8-15-Puzzle-using-A-A-Star-Algorithm-Csharp)
+This project solves the 8/15 puzzle problem using A* algorithm. Project has been implemented in C# with a graphical interface that allows a person to play the game or find an optimal solution for current state of the 8 puzzle. I wrote the first post on CodeProject [here](https://www.codeproject.com/Articles/616874/8-15-Puzzle-using-A-A-Star-Algorithm-Csharp)
 
 ## A* Algorithm
 
