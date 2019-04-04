@@ -105,7 +105,7 @@ You can shuffle the arrangements and change the heuristic from the menu. On aver
 
 Last thing - I didn't lie when I added 15 puzzle in the list. Same code can be used to extend the solution for 15 puzzle game. In fact, you just need to change the grid from 3x3 to 4x4. But this would be too slow for 15 puzzle. 15 puzzle can be in 10^13 states, which is too slow for A* algorithm to handle. There exists a better version of it; I will talk, when I have it.
 
-Revised code:
+### Revised code
 
 I have optimized code to use indexed min priority queue. This is to speed-up the lookup and removal of the state from the min priority queue.
 
